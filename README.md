@@ -1,1 +1,1 @@
-# Team-332-group-a-frontend
+# Team-332-frontend
