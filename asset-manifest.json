@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Team-332-group-a-frontend/static/css/main.b8b73e3a.chunk.css",
+    "main.js": "/Team-332-group-a-frontend/static/js/main.94f501f2.chunk.js",
+    "main.js.map": "/Team-332-group-a-frontend/static/js/main.94f501f2.chunk.js.map",
+    "runtime-main.js": "/Team-332-group-a-frontend/static/js/runtime-main.e3552302.js",
+    "runtime-main.js.map": "/Team-332-group-a-frontend/static/js/runtime-main.e3552302.js.map",
+    "static/js/2.1d09a679.chunk.js": "/Team-332-group-a-frontend/static/js/2.1d09a679.chunk.js",
+    "static/js/2.1d09a679.chunk.js.map": "/Team-332-group-a-frontend/static/js/2.1d09a679.chunk.js.map",
+    "index.html": "/Team-332-group-a-frontend/index.html",
+    "precache-manifest.62ebb2ca7217ed3834b216c7c3870ea9.js": "/Team-332-group-a-frontend/precache-manifest.62ebb2ca7217ed3834b216c7c3870ea9.js",
+    "service-worker.js": "/Team-332-group-a-frontend/service-worker.js",
+    "static/css/main.b8b73e3a.chunk.css.map": "/Team-332-group-a-frontend/static/css/main.b8b73e3a.chunk.css.map",
+    "static/js/2.1d09a679.chunk.js.LICENSE.txt": "/Team-332-group-a-frontend/static/js/2.1d09a679.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e3552302.js",
+    "static/js/2.1d09a679.chunk.js",
+    "static/css/main.b8b73e3a.chunk.css",
+    "static/js/main.94f501f2.chunk.js"
+  ]
+}
